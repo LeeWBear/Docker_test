@@ -1,4 +1,4 @@
 from ubuntu
 run apt update
-run apt install -y vim
+run apt install -y vim tree
 run apt install -y git
